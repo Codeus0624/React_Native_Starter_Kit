@@ -1,12 +1,11 @@
-# react-native-starter-kit
-![](https://travis-ci.org/philipshurpik/react-native-starter-kit.svg?branch=master)
+# React Native Starter Kit
 
 React Native starter kit - offline-first architecture proposal for iOS/Android application. 
 Functionality are grouped by modules and can be easily scaled  
 
 Example application contains three different pages, navigation between them + loader and async tasks simulation
 
-![](https://github.com/philipshurpik/react-native-starter-kit/raw/master/video.gif) 
+![](https://github.com/Codeus0624/React_Native_Starter_Kit/raw/master/video.gif) 
 
 ----------
 #### Using:
